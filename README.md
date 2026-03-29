@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manju Halli  
+# 👋 Hi, I'm Manjunath Halli  
 
 🚀 Future Developer | 📈 Trader | 💻 Tech Learner  
 
