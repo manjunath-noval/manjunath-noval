@@ -1,4 +1,4 @@
-🌐 Live Demo: https://manjunath-noval.github.io/careerping
+🌐 Live Demo: https://manjunath-novus.github.io/careerping
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=Manjunath%20Halli&fontSize=42&fontColor=ffffff"/>
@@ -60,7 +60,7 @@
 
 ## 📫 Contact
 
-* 📧 [manjunath.noval@gmail.com](mailto:manjunath.noval@gmail.com)
+* 📧 [manjunath.noval@gmail.com](mailto:manjunath.novus@gmail.com)
 
 ---
 
